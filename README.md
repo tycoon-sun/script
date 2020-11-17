@@ -1,4 +1,3 @@
-#Demo
-test
-#this is a test
-aa
+#Script
+
+#this is a game  
